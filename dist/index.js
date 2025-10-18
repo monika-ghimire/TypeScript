@@ -1,8 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-console.log('hello word');
-let age = 20;
-if (age < 20)
-    age += 10;
-console.log(age);
+function KgToLbs(weight) {
+    if (typeof weight === 'number')
+        return weight * 2.2;
+    else
+        return parseInt(weight) * 2.2;
+}
+KgToLbs(10);
+KgToLbs('10kg');
 //# sourceMappingURL=index.js.map

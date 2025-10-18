@@ -1,0 +1,31 @@
+typesctrpt type :
+
+1. any
+2. unknown
+3. never
+4. enum
+5. tuple
+
+
+typesctrpt array :
+
+tuples
+
+enum
+
+
+functions
+
+
+objects
+
+
+
+//should know
+
+// 1. type aliases
+// 2. unions and intersection
+// 3. type narrowing
+// 4. Nullable types
+// 5. the unknown type
+// 6. the never type

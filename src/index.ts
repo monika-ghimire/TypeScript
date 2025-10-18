@@ -1,3 +1,6 @@
 console.log('hello word');
 
 let age : number = 20;
+if(age<20)
+    age += 10;
+console.log(age)

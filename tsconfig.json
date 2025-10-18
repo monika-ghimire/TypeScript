@@ -18,6 +18,7 @@
      //emit
      "removeComments": true,
      "noEmitOnError": true,
+     
     // Other Outputs
     "sourceMap": true,
     "declaration": true,
